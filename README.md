@@ -64,14 +64,11 @@ npm run dev
 
 ## Deployment
 
-This application can be easily deployed to Vercel:
 
 ```shell
 npm run build
 npm run start
 ```
-
-Or connect your GitHub repository to Vercel for automatic deployments.
 
 ## Technologies Used
 
